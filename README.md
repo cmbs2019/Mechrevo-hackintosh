@@ -1,11 +1,11 @@
-# Visit cmbs-soft.com to download newest EFI
+# Visit www.cmbs-soft.com to download newest EFI
 
-Sorry to inform you that the efi here will not update in time because of the lack of efforts, thus, if you want to experience Macos 10.15 Catalina or better experience, please visit cmbs-soft.com to download the efi you want.
+Sorry to inform you that the efi here will not update in time because of the lack of efforts, thus, if you want to experience Macos 10.15 Catalina or better experience, please visit www.cmbs-soft.com to download the efi you want.
 
 
 We alse provide teaching video and other tools you need for your hackintosh, before you start your journey, please read the statment as carefully as you can.
 
-The models below are all supported for macos in our site(cmbs-soft.com):
+The models below are all supported for macos in our site(www.cmbs-soft.com):
 
 1. Mechrevo Z2(8th cpu/10th GPU)
 2. Mechrevo X8ti(8th cpu/10th GPU)
