@@ -1,7 +1,9 @@
-# Visit www.cmbs-soft.com to download newest EFI
+# Visit https://www.cmbs-soft.com to download newest EFI
 
-Sorry to inform you that the efi here will not update in time because of the lack of efforts, thus, if you want to experience Macos 10.15 Catalina or better experience, please visit www.cmbs-soft.com to download the efi you want.
+Sorry to inform you that the efi here will not update in time because of the lack of efforts, thus, if you want to experience Macos 10.15 Catalina / 11.0 BIG SUR or better experience, please visit https://www.cmbs-soft.com to download the efi you want.
 
+Please attention that:
+Our BLOG is free for register~
 
 We alse provide teaching video and other tools you need for your hackintosh, before you start your journey, please read the statment as carefully as you can.
 
@@ -32,7 +34,15 @@ The models below are all supported for macos in our site(www.cmbs-soft.com):
 23. Mechrevo Z1(6th cpu/ 10th gpu)
 24. Mechrevo X6(4th cpu/ 8th gpu)
 25. Mechrevo X6S(4th cpu/ 9th gpu)
-
+26. Mechrevo X3S(1Oth cpu/16th gpu)
+27. Mechrevo Z3(10th cpu/16th gpu/20th gpu)
+28. Mechrevo Z3 AIR(1Oth cpu/16th gpu)
+29. Mechrevo Z3 AIR S(1Oth cpu/16th gpu)
+30. Mechrevo umi air(1Oth cpu/16th gpu)
+31. Mechrevo umi air 2(1Oth cpu/16th gpu)
+32. Mechrevo x10ti(1Oth cpu/20th gpu)
+33. Mechrevo X10TI S(1Oth cpu/20th gpu)
+34. Mechrevo Z3(1Oth cpu/20th gpu)
 GOOD LUCK~
 # Mechrevo-hackintosh
 The EFI files for Mechrevo to start hackintosh
